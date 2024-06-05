@@ -102,6 +102,5 @@ body {
   text-align: center;
 }
 .attribution a {
-  color: #2f4f4f;
-  text-decoration: none;
+  color: hsl(228, 45%, 44%);
 }
